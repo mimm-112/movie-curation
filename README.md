@@ -41,14 +41,10 @@ streamlit_curating/
     └── secrets.toml.example     # TMDB API 키 설정 예시 (포스터용)
 ```
 
-> 배포 시 꼭 필요한 파일: `app.py` · `movies.csv` · `requirements.txt`
-> (포스터를 쓰려면 아래 'TMDB API 키' 설정 추가)
-
 ---
 
 ## 🖼️ 포스터 보기 (TMDB API 키 · 무료, 선택)
 
-포스터 이미지는 TMDB에서 실시간으로 불러옵니다. **키가 없어도 앱은 정상 작동**하며, 이 경우 포스터 자리에 이모지가 표시됩니다.
 
 1. [themoviedb.org](https://www.themoviedb.org) 가입 → 설정 → API → **API Key (v3 auth)** 발급 (무료)
 2. **로컬에서 쓸 때**: `.streamlit/secrets.toml.example` 을 복사해 `.streamlit/secrets.toml` 로 이름을 바꾸고 키를 붙여넣기
