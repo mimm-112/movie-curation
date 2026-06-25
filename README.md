@@ -17,7 +17,7 @@ https://movie-curation-caappwg3h9dagaiebe4qvgg.streamlit.app/
 
 ---
 
-## 🧩 사용한 기능 (수업 완성 체크리스트)
+## 🧩 사용한 기능 
 
 | 항목 | 구현 내용 |
 |---|---|
@@ -110,5 +110,6 @@ streamlit run app.py
 ---
 
 ## 📝 만든 사람
+mimm-112
 
 Asia AI 부트캠프 미니 프로젝트 · Streamlit 분석/큐레이션 트랙
