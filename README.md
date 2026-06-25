@@ -77,7 +77,7 @@ streamlit_curating/
 이 앱은 **TMDB API를 사용**하지만 TMDB가 보증하거나 인증한 서비스는 아닙니다.
 > This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-과제·발표 시 출처를 *"TMDB 기반 공개 영화 데이터셋 · 포스터 © TMDB"* 로 밝히는 것을 권장합니다.
+출처 *"TMDB 기반 공개 영화 데이터셋 · 포스터 © TMDB"* 
 줄거리(overview)는 영어로 제공됩니다.
 
 ---
